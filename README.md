@@ -3,7 +3,7 @@ A Instagram Bot that uploads pictures, writes caption including hashtags from a 
 
 Description:
 A simple yet elegant Instagram Bot that creates posts and upload it to your account from a local folder in your machine. 
-You have to specify a folder from where it will upload images (you can keep adding pictures later as well), then, it writes caption, hastags, current day etc for your post and 
+You have to specify a folder from where it will upload images (you can keep adding pictures later as well), then, it writes caption, hashtags, current day etc for your post and 
 upload the contents of the selected folder every time you run the script.
 
 Technologies used:
